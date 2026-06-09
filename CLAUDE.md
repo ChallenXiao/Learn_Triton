@@ -159,7 +159,7 @@
 - [x] 11_matmul_v2_autotune — GEMM 调优版(2026-06-09)
 - [x] 12_layernorm_rmsnorm — Norm 类 kernel 与 epilogue 融合(2026-06-09)
 - [x] 13_backward_autograd — 反向 kernel 与 autograd 封装(2026-06-09)
-- [ ] 14_flash_attention_fwd — FlashAttention 前向
+- [x] 14_flash_attention_fwd — FlashAttention 前向(2026-06-09)
 
 ### 阶段 3:大模型推理优化
 - [ ] 15_llm_inference_anatomy — 推理全景与 KV cache
