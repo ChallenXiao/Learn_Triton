@@ -166,7 +166,7 @@
 - [x] 16_inference_kernels — RoPE/SwiGLU/融合 norm(2026-06-09)
 - [x] 17_flash_attention_advanced — causal/GQA/Flash-Decoding(2026-06-09)
 - [x] 18_paged_attention — PagedAttention 原理与简化实现(2026-06-09)
-- [ ] 19_continuous_batching — 连续批处理与调度模拟器
+- [x] 19_continuous_batching — 连续批处理与调度模拟器(2026-06-09)
 - [ ] 20_radix_attention — RadixAttention 与 prefix caching
 - [ ] 21_quantization_kernels — 量化 kernel 与 W8A16 GEMM
 - [ ] 22_inference_frameworks — vLLM/SGLang/TensorRT-LLM 对决
