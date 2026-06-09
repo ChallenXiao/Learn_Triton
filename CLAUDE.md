@@ -151,7 +151,7 @@
 - [x] 05_memory_access — load/store/stride/coalescing(2026-06-09)
 - [x] 06_fused_elementwise — 逐元素融合 kernel(2026-06-09)
 - [x] 07_reduction — 归约与第一版 softmax(2026-06-09)
-- [ ] 08_benchmark_methodology — benchmark 与调试方法论
+- [x] 08_benchmark_methodology — benchmark 与调试方法论(2026-06-09)
 
 ### 阶段 2:核心算子
 - [ ] 09_softmax_online — 数值稳定与 online softmax
