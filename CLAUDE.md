@@ -142,7 +142,7 @@
 > 状态:`[ ]` 未开始 / `[~]` 进行中 / `[x]` 已完成(附日期)
 
 ### 阶段 0:地基
-- [ ] 01_pytorch_gpu_basics — PyTorch Tensor 与 GPU 执行模型
+- [x] 01_pytorch_gpu_basics — PyTorch Tensor 与 GPU 执行模型(2026-06-09)
 - [ ] 02_gpu_architecture — GPU 体系结构与 roofline
 - [ ] 03_hello_triton — Triton 初识与第一个 kernel
 

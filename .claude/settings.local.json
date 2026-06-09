@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git add *)",
-      "Bash(git commit -m 'Add README and md2nb converter tool *)",
-      "Bash(git push *)"
-    ]
-  }
-}
