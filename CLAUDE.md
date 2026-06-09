@@ -156,7 +156,7 @@
 ### 阶段 2:核心算子
 - [x] 09_softmax_online — 数值稳定与 online softmax(2026-06-09)
 - [x] 10_matmul_v1 — GEMM 基础版(2026-06-09)
-- [ ] 11_matmul_v2_autotune — GEMM 调优版
+- [x] 11_matmul_v2_autotune — GEMM 调优版(2026-06-09)
 - [ ] 12_layernorm_rmsnorm — Norm 类 kernel 与 epilogue 融合
 - [ ] 13_backward_autograd — 反向 kernel 与 autograd 封装
 - [ ] 14_flash_attention_fwd — FlashAttention 前向
