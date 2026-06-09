@@ -154,7 +154,7 @@
 - [x] 08_benchmark_methodology — benchmark 与调试方法论(2026-06-09)
 
 ### 阶段 2:核心算子
-- [ ] 09_softmax_online — 数值稳定与 online softmax
+- [x] 09_softmax_online — 数值稳定与 online softmax(2026-06-09)
 - [ ] 10_matmul_v1 — GEMM 基础版
 - [ ] 11_matmul_v2_autotune — GEMM 调优版
 - [ ] 12_layernorm_rmsnorm — Norm 类 kernel 与 epilogue 融合
