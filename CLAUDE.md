@@ -147,7 +147,7 @@
 - [x] 03_hello_triton — Triton 初识与第一个 kernel(2026-06-09)
 
 ### 阶段 1:Triton 编程模型
-- [ ] 04_program_model — grid/program_id/mask
+- [x] 04_program_model — grid/program_id/mask(2026-06-09)
 - [ ] 05_memory_access — load/store/stride/coalescing
 - [ ] 06_fused_elementwise — 逐元素融合 kernel
 - [ ] 07_reduction — 归约与第一版 softmax
