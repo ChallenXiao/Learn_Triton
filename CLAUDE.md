@@ -148,7 +148,7 @@
 
 ### 阶段 1:Triton 编程模型
 - [x] 04_program_model — grid/program_id/mask(2026-06-09)
-- [ ] 05_memory_access — load/store/stride/coalescing
+- [x] 05_memory_access — load/store/stride/coalescing(2026-06-09)
 - [ ] 06_fused_elementwise — 逐元素融合 kernel
 - [ ] 07_reduction — 归约与第一版 softmax
 - [ ] 08_benchmark_methodology — benchmark 与调试方法论
