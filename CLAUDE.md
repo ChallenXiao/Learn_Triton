@@ -144,7 +144,7 @@
 ### 阶段 0:地基
 - [x] 01_pytorch_gpu_basics — PyTorch Tensor 与 GPU 执行模型(2026-06-09)
 - [x] 02_gpu_architecture — GPU 体系结构与 roofline(2026-06-09)
-- [ ] 03_hello_triton — Triton 初识与第一个 kernel
+- [x] 03_hello_triton — Triton 初识与第一个 kernel(2026-06-09)
 
 ### 阶段 1:Triton 编程模型
 - [ ] 04_program_model — grid/program_id/mask
